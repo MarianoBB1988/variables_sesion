@@ -149,6 +149,6 @@ Este ejemplo está diseñado para:
 - Facilitar la comprensión paso a paso
 
 ---
-**Autor**: Profesor [Tu Nombre]  
-**Curso**: Programación Web con PHP  
+**Autor**: Profesor Mariano Bastarreix  
+**Curso**: Programación Full stack  
 **Fecha**: Julio 2025
